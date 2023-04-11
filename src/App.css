@@ -1,0 +1,27 @@
+
+
+.icon-back{
+  position: relative;
+}
+
+.icon1{
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  background-color: #dcdcdc40;
+  /* background: #fff; */
+  font-size: 3rem;
+  /* width: 3rem; */
+  color: white;
+  /* border-radius: 90rem; */
+
+}
+
+button{
+  cursor: pointer;
+}
+
+a{
+  text-decoration: none;
+}
+
